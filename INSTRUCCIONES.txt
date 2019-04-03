@@ -1,0 +1,35 @@
+paso 1
+
+Descargar el repositorio de github 
+
+paso 2
+
+Descomprimir el repositorio en la ruta de su servidor web, si es xampp, en C:/xampp/htdocs
+
+paso 3 
+
+Renombre el repositorio y llamelo Support
+
+Paso 4
+
+Ejecute el servidor apache y mysql de xampp e ingrese a localhost/phpmyadmin
+
+paso 5
+
+Cree una base de datos llamada Support e importe la base de datos que se encuentra en el repositorio con nombre Support.sql
+(Tome en cuenta que en la aplicacion la coneccion a la base de datos se hace con usuario root y contraseña vacia '')
+
+paso 6
+
+Una vez se halla completado la copia del repositorio y la importacion de la base de datos abra el navegador y ejecute el siguiente URL:
+
+http://localhost/support/frontend/web/index.php?r=site%2Flogin
+
+Paso 7
+
+El sistema tiene un usuario administrador  cuyo nombre de usuario es sistemas
+y contraseña es Erick15#
+
+Paso 8 
+
+Puede crear un nuevo usuario estandar en la opcion de registrarse y comparar lo que puede ver y hacer un rol y otro.
